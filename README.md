@@ -310,7 +310,7 @@ ollama stop nomic-embed-text
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Future Improvements
 
 - [ ] OCR support for scanned documents
 - [ ] Improved chunking and retrieval strategies
